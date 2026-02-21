@@ -1,0 +1,34 @@
+{
+  "auth": [
+    {
+      "id": "b1ec",
+      "fullName": "Yuvraj Ganshi",
+      "email": "yuvrajganshi@gmail.com",
+      "password": "Aceinfo@2531",
+      "confirmPassword": "Aceinfo@2531",
+      "role": "admin",
+      "status": "Active",
+      "joined": "2026-02-19T10:30:00Z"
+    },
+    {
+      "id": "ee05",
+      "fullName": "Balraj Kumar",
+      "email": "balrajkumar@gmail.com",
+      "password": "Aceinfo@1234",
+      "confirmPassword": "Aceinfo@1234",
+      "role": "editor",
+      "status": "Blocked",
+      "joined": "2026-02-19T10:06:45.444Z"
+    },
+    {
+      "id": "8dff",
+      "fullName": "Mohan Kumar",
+      "email": "mohankumar@gmail.com",
+      "password": "Aceinfo@12345",
+      "confirmPassword": "Aceinfo@12345",
+      "role": "admin",
+      "status": "Active",
+      "joined": "2026-02-20T12:17:44.903Z"
+    }
+  ]
+}
