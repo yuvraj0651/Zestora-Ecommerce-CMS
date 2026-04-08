@@ -1,4 +1,4 @@
-# 🧩 Zestora - E-commerce CMS Dashboard 🚀
+# 🧩 Zestora - E-commerce CMS Dashboard 
 
 ## 📌 Overview
 A scalable and dynamic Content Management System (CMS) built for managing an e-commerce platform. This admin dashboard enables efficient management of products, users, and application content with a focus on modular architecture and real-world business workflows.
