@@ -1,4 +1,9 @@
 # 🧩 Zestora - E-commerce CMS Dashboard
+![Zestora-CMS](https://github.com/user-attachments/assets/dc1e7fc4-5478-4283-b6de-6f91d8a8f703)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## 📌 Overview
 A scalable and dynamic Content Management System (CMS) built for managing an e-commerce platform. This admin dashboard enables efficient management of products, users, and application content with a focus on modular architecture and real-world business workflows.
