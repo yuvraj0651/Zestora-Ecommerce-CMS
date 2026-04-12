@@ -50,6 +50,11 @@ A scalable and dynamic Content Management System (CMS) built for managing an e-c
 
 ---
 
+## Live Demi - 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify)](https://zestora-admin.netlify.app/)
+
+---
+
 ## 🚀 Installation
 
 Clone the repository and run locally:
